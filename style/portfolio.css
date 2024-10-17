@@ -265,10 +265,10 @@
     }
     .content-container img {
       text-align: center;
-      max-height: 500px;
-      max-width: 400px;
+      max-height: 550px;
+
       padding: 10px;
-      border-radius: 10px;
+      border-radius: 4px;
     }
     footer .email-link {
       font-size: 20px;
