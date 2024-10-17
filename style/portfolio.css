@@ -1,6 +1,6 @@
 :root {
-    --branding-color: #ec6e4c;
-    --secondary-color: #fff1e6;
+    --branding-color: #f35b04;
+    --secondary-color: #e7e7ec;
     --default-font-family: "poppins", sans-serif;
     --heading-font-family: "Playfair Display", serif;
   }
@@ -115,7 +115,12 @@
     padding: 0;
     margin: 0;
   }
-  
+  .content-container img {
+    width: 494px;
+    height: 749px;
+    padding: 0;
+    margin: 0;
+  }
   .content p {
     font-size: 14px;
   
