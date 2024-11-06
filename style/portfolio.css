@@ -273,7 +273,16 @@
       text-align: center;
       margin-right: 0;
     }
+    .contente p {
+      text-align: center;
+      margin:auto;
+      padding: 10px;
+    }
     .content-container {
+      padding: 0;
+      text-align: center;
+    }
+    .contente-container {
       padding: 0;
       text-align: center;
     }
@@ -282,13 +291,30 @@
       margin: auto 0%;
       padding: 10px;
     }
+    .contente-container p {
+      text-align: center;
+      margin-right: auto 0%;
+      padding: 0px, 0px, 0px, 12px;
+    
+  
+    }
+   
     .content-container img {
       text-align: center;
       max-height: 500px;
       padding: 10px;
       border-radius: 4px;
     }
+    .contente-container img {
+      text-align: center;
+      max-height: 300px;
+      padding: 10px;
+      border-radius: 4px;
+    }
     .col-lg-6 {
+      padding-right: 0;
+    }
+    .col-lg-12 {
       padding-right: 0;
     }
     footer .email-link {
