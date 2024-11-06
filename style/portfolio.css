@@ -254,7 +254,7 @@
       padding: 10px;
     }
     h3 {
-      font-size: 42px;
+      font-size: 36px;
       text-align: center;
       line-height: 64px;
     }
@@ -293,10 +293,9 @@
     }
     .contente-container p {
       text-align: center;
+      margin: 20px;
       margin-right: auto 0%;
       padding: 0px, 0px, 0px, 12px;
-    
-  
     }
    
     .content-container img {
@@ -314,8 +313,12 @@
     .col-lg-6 {
       padding-right: 0;
     }
-    .col-lg-12 {
+    .special img {
       padding-right: 0;
+      text-align: center;
+      max-height: 300px !important;
+      padding: 10px;
+      border-radius: 4px;
     }
     footer .email-link {
       font-size: 20px;
